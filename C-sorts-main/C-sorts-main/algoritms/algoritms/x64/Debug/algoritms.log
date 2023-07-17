@@ -1,0 +1,31 @@
+﻿  Source.c
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(33,15): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(68,10): warning C4098: alg1: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(96,10): warning C4098: alg2: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(125,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(135,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(148,11): warning C4098: alg3: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(174,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(185,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(193,10): warning C4098: alg4: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(217,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(227,20): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(234,10): warning C4098: alg5: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(268,10): warning C4098: alg6: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(256,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(304,10): warning C4098: alg7: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(292,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(342,10): warning C4098: alg8: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(330,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(366,10): warning C4098: alg9: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(356,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(391,10): warning C4098: alg10: функция типа "void", возвращающая значение
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(381,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(501,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(651,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(657,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(668,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(681,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(689,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Danil\Desktop\CC++\algoritms\algoritms\Source.c(699,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  algoritms.vcxproj -> C:\Users\Danil\Desktop\CC++\algoritms\x64\Debug\algoritms.exe
